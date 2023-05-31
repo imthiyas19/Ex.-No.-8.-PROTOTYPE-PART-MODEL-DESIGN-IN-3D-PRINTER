@@ -47,8 +47,13 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+
+
+![8](https://github.com/imthiyas19/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/120353416/4f19c895-5b39-420d-8f6d-c3695f0d4279)
+
+
+### Name:MOHAMMED IMTHIYAS.M
+### Register Number:212222230083
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
